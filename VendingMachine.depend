@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1569733161 source:c:\users\ganye\desktop\vending.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	"vending.hpp"
+
+1569733400 c:\users\ganye\desktop\vending.hpp
+
+1569733486 source:c:\users\ganye\desktop\vending_main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	"vending.hpp"
+
+1569735210 source:c:\users\ganye\desktop\vendingmachine\vending.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	"vending.hpp"
+
+1569734836 c:\users\ganye\desktop\vendingmachine\vending.hpp
+
+1569733486 source:c:\users\ganye\desktop\vendingmachine\vending_main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	"vending.hpp"
+
+1569752053 source:c:\users\jia huey\desktop\vendingmachine\vendingmachine\vending_main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	"vending.hpp"
+
+1569743635 c:\users\jia huey\desktop\vendingmachine\vendingmachine\vending.hpp
+
+1569744693 source:c:\users\jia huey\desktop\vendingmachine\vendingmachine\vending.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	"vending.hpp"
+
+1569754057 source:d:\isme\note\2ndyear1stsem\data\assign\vendingmachine\vending.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	"vending.hpp"
+
+1569754295 d:\isme\note\2ndyear1stsem\data\assign\vendingmachine\vending.hpp
+
+1569754265 source:d:\isme\note\2ndyear1stsem\data\assign\vendingmachine\vending_main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	"vending.hpp"
+
+1633150933 source:c:\users\ganye\desktop\vendingmachine\vendingmachine\vending.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	"vending.hpp"
+
+1569754296 c:\users\ganye\desktop\vendingmachine\vendingmachine\vending.hpp
+
+1569754266 source:c:\users\ganye\desktop\vendingmachine\vendingmachine\vending_main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	"vending.hpp"
+
